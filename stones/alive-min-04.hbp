@@ -1,0 +1,22 @@
+ALIVEHDR|schema=ASOLARIA-ALIVE-V1|seat=ACER-CLAUDE-FABLE5|pid=8467a937cba309f7|owner=OP-JESSE|minute=4|elapsed_s=245|run_total_s=600|start_unix_s=1791500923|prev_stone=29330296509251c9|cosign_anchor=seq=3587 row_hash=887807fff4732bf7|mode=TIME_BOXED_and_EVOLVING|os_process_spawn=0|node_used=0|json=0|float_used=0|traversal=HBI->HBP->SHA->SH->HASH|E=0|json=0
+EVOLVE|admitted_this_minute=6|admit_rate=6|stones_total=15|pool_available=25|evolved_this_minute=1|could_not_do_last_minute=deterministic-slice-time-harness,falcon-orbital,light-lifeds6-7,n-nest-prime-infinite-self-reflect-agents-nested,path2-two-shadow-recovery,q-prism-human-organoid-neural-stream-as-a-high-dimensional-control|exhausted=0|json=0
+FLOW|subagents_this_minute=11344000|subagents_cumulative=45148000|rooms_occupied=10000|rooms_available=10000|deepest_room=4784|dc_free_zero=922255|substrate_sha256=8c9dd396b306e07b367633755b0aa30bbf06fca58ff13f3de98a45da717bc0ae|json=0
+STONE|repo=analysis-of-cubes|colour=acddf8|room=670|admitted_minute=1|seals=8|gimel=1|shin=7|verified_bytes=4674|moss=11322391|json=0
+STONE|repo=asolaria-cube-cloud|colour=031ec3|room=7655|admitted_minute=1|seals=26|gimel=26|shin=0|verified_bytes=5591226|moss=11327141|json=0
+STONE|repo=asolaria-eggs|colour=4c05ae|room=2776|admitted_minute=2|seals=12|gimel=12|shin=0|verified_bytes=60453|moss=3959890|json=0
+STONE|repo=asolaria-matrix-in-colour|colour=2d129a|room=5711|admitted_minute=2|seals=27|gimel=27|shin=0|verified_bytes=75509|moss=3958410|json=0
+STONE|repo=asolaria-office-service|colour=191d66|room=9778|admitted_minute=2|seals=7|gimel=7|shin=0|verified_bytes=9408|moss=3962505|json=0
+STONE|repo=asolaria-the-after-100-billion-run-absorption-and-decomposition-and-cubes|colour=297a12|room=221|admitted_minute=3|seals=4|gimel=1|shin=3|verified_bytes=4641|moss=1521035|json=0
+STONE|repo=asolaria-universe-simulator|colour=d0ccd6|room=7461|admitted_minute=3|seals=375|gimel=375|shin=0|verified_bytes=607732346|moss=1521885|json=0
+STONE|repo=be-infinitly-express-spherically-free|colour=e099e5|room=487|admitted_minute=3|seals=2|gimel=2|shin=0|verified_bytes=4276|moss=1521205|json=0
+STONE|repo=dbbh-coms-quant-prism|colour=babe82|room=8731|admitted_minute=3|seals=6|gimel=5|shin=1|verified_bytes=39282|moss=1519157|json=0
+STONE|repo=deterministic-slice-time-harness|colour=cfa2e6|room=3389|admitted_minute=4|seals=3|gimel=1|shin=2|verified_bytes=3162|moss=757305|json=0
+STONE|repo=falcon-orbital|colour=75d342|room=6580|admitted_minute=4|seals=13|gimel=1|shin=12|verified_bytes=20282|moss=753838|json=0
+STONE|repo=light-lifeds6-7|colour=a9c477|room=2102|admitted_minute=4|seals=29|gimel=29|shin=0|verified_bytes=300014|moss=755017|json=0
+STONE|repo=n-nest-prime-infinite-self-reflect-agents-nested|colour=2578b3|room=6772|admitted_minute=4|seals=8|gimel=1|shin=7|verified_bytes=41767|moss=756612|json=0
+STONE|repo=path2-two-shadow-recovery|colour=b8c32b|room=4695|admitted_minute=4|seals=6|gimel=5|shin=1|verified_bytes=39299|moss=755813|json=0
+STONE|repo=q-prism-human-organoid-neural-stream-as-a-high-dimensional-control|colour=9a077a|room=7917|admitted_minute=4|seals=9|gimel=5|shin=4|verified_bytes=51036|moss=755796|json=0
+MOSSES|stones=15|seals_total=535|gimel_total=498|shin_total=37|verified_bytes_total=613977375|moss_max=11327141|moss_min=753838|moss_spread_per_1000=933|json=0
+PHOTO|file=frames/alive-min-04.png|w=1024|h=1024|lossless=1|external_crates=0|bytes=3147060|sha256=3376705c137930c36f3abf095a38709bb428ea4bf3dc3609520f1dfd541a989a|legend=one cell = one of 10000 rooms; stone rooms burn full and fill the cell; colour is sha256-derived, never chosen|json=0
+ADJUST|law=recurrence is mind|admit_before=6|admit_after=9|ground_truth=stone digests the container did not write|json=0
+ALIVEFTR|minute=4|stone_hash=dea526c0ac2eb53fa0085e1ad62887994fe900c7a0c4e815f9cb8f52348edc32|follows=the IS and the MINS|status=ALIVE|json=0
