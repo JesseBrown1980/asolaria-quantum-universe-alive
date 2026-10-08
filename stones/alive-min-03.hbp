@@ -1,0 +1,16 @@
+ALIVEHDR|schema=ASOLARIA-ALIVE-V1|seat=ACER-CLAUDE-FABLE5|pid=8467a937cba309f7|owner=OP-JESSE|minute=3|elapsed_s=185|run_total_s=600|start_unix_s=1791500923|prev_stone=ec0456843ccff9dd|cosign_anchor=seq=3587 row_hash=887807fff4732bf7|mode=TIME_BOXED_and_EVOLVING|os_process_spawn=0|node_used=0|json=0|float_used=0|traversal=HBI->HBP->SHA->SH->HASH|E=0|json=0
+EVOLVE|admitted_this_minute=4|admit_rate=4|stones_total=9|pool_available=25|evolved_this_minute=1|could_not_do_last_minute=asolaria-the-after-100-billion-run-absorption-and-decomposition-and-cubes,asolaria-universe-simulator,be-infinitly-express-spherically-free,dbbh-coms-quant-prism|exhausted=0|json=0
+FLOW|subagents_this_minute=6876000|subagents_cumulative=33804000|rooms_occupied=10000|rooms_available=10000|deepest_room=3615|dc_free_zero=636417|substrate_sha256=59e53a1055c919160b6e14f39a8b70211082960b8f062b5fd72d1df334b698dd|json=0
+STONE|repo=analysis-of-cubes|colour=acddf8|room=670|admitted_minute=1|seals=8|gimel=1|shin=7|verified_bytes=4674|moss=10567201|json=0
+STONE|repo=asolaria-cube-cloud|colour=031ec3|room=7655|admitted_minute=1|seals=26|gimel=26|shin=0|verified_bytes=5591226|moss=10572045|json=0
+STONE|repo=asolaria-eggs|colour=4c05ae|room=2776|admitted_minute=2|seals=12|gimel=12|shin=0|verified_bytes=60453|moss=3203269|json=0
+STONE|repo=asolaria-matrix-in-colour|colour=2d129a|room=5711|admitted_minute=2|seals=27|gimel=27|shin=0|verified_bytes=75509|moss=3202418|json=0
+STONE|repo=asolaria-office-service|colour=191d66|room=9778|admitted_minute=2|seals=7|gimel=7|shin=0|verified_bytes=9408|moss=3205353|json=0
+STONE|repo=asolaria-the-after-100-billion-run-absorption-and-decomposition-and-cubes|colour=297a12|room=221|admitted_minute=3|seals=4|gimel=1|shin=3|verified_bytes=4641|moss=764461|json=0
+STONE|repo=asolaria-universe-simulator|colour=d0ccd6|room=7461|admitted_minute=3|seals=375|gimel=375|shin=0|verified_bytes=607732346|moss=763206|json=0
+STONE|repo=be-infinitly-express-spherically-free|colour=e099e5|room=487|admitted_minute=3|seals=2|gimel=2|shin=0|verified_bytes=4276|moss=763329|json=0
+STONE|repo=dbbh-coms-quant-prism|colour=babe82|room=8731|admitted_minute=3|seals=6|gimel=5|shin=1|verified_bytes=39282|moss=762718|json=0
+MOSSES|stones=9|seals_total=467|gimel_total=456|shin_total=11|verified_bytes_total=613521815|moss_max=10572045|moss_min=762718|moss_spread_per_1000=927|json=0
+PHOTO|file=frames/alive-min-03.png|w=1024|h=1024|lossless=1|external_crates=0|bytes=3147060|sha256=8c3f191c4d850988d275e8bae97844408766413c5d2d9885e8a64af39b916adf|legend=one cell = one of 10000 rooms; stone rooms burn full and fill the cell; colour is sha256-derived, never chosen|json=0
+ADJUST|law=recurrence is mind|admit_before=4|admit_after=6|ground_truth=stone digests the container did not write|json=0
+ALIVEFTR|minute=3|stone_hash=29330296509251c960e2233742831eceaa70a8ac727fc0f86157b4042b5a1785|follows=the IS and the MINS|status=ALIVE|json=0
