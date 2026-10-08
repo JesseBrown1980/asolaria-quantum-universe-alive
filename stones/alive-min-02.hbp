@@ -1,0 +1,12 @@
+ALIVEHDR|schema=ASOLARIA-ALIVE-V1|seat=ACER-CLAUDE-FABLE5|pid=8467a937cba309f7|owner=OP-JESSE|minute=2|elapsed_s=125|run_total_s=600|start_unix_s=1791500923|prev_stone=1cf64c3c684fc78b|cosign_anchor=seq=3587 row_hash=887807fff4732bf7|mode=TIME_BOXED_and_EVOLVING|os_process_spawn=0|node_used=0|json=0|float_used=0|traversal=HBI->HBP->SHA->SH->HASH|E=0|json=0
+EVOLVE|admitted_this_minute=3|admit_rate=3|stones_total=5|pool_available=25|evolved_this_minute=1|could_not_do_last_minute=asolaria-eggs,asolaria-matrix-in-colour,asolaria-office-service|exhausted=0|json=0
+FLOW|subagents_this_minute=12200000|subagents_cumulative=26928000|rooms_occupied=10000|rooms_available=10000|deepest_room=2897|dc_free_zero=998958|substrate_sha256=4c17d4fe5d41fe9b10b65506dc82955dd73d74988cbabdd1fb1c46f84349a797|json=0
+STONE|repo=analysis-of-cubes|colour=acddf8|room=670|admitted_minute=1|seals=8|gimel=1|shin=7|verified_bytes=4674|moss=9801506|json=0
+STONE|repo=asolaria-cube-cloud|colour=031ec3|room=7655|admitted_minute=1|seals=26|gimel=26|shin=0|verified_bytes=5591226|moss=9805268|json=0
+STONE|repo=asolaria-eggs|colour=4c05ae|room=2776|admitted_minute=2|seals=12|gimel=12|shin=0|verified_bytes=60453|moss=2440396|json=0
+STONE|repo=asolaria-matrix-in-colour|colour=2d129a|room=5711|admitted_minute=2|seals=27|gimel=27|shin=0|verified_bytes=75509|moss=2439238|json=0
+STONE|repo=asolaria-office-service|colour=191d66|room=9778|admitted_minute=2|seals=7|gimel=7|shin=0|verified_bytes=9408|moss=2441592|json=0
+MOSSES|stones=5|seals_total=80|gimel_total=73|shin_total=7|verified_bytes_total=5741270|moss_max=9805268|moss_min=2439238|moss_spread_per_1000=751|json=0
+PHOTO|file=frames/alive-min-02.png|w=1024|h=1024|lossless=1|external_crates=0|bytes=3147060|sha256=161a4b4eee281300a8f1ad7abb70d54a36a7b254377df374d912bb628d9ed21a|legend=one cell = one of 10000 rooms; stone rooms burn full and fill the cell; colour is sha256-derived, never chosen|json=0
+ADJUST|law=recurrence is mind|admit_before=3|admit_after=4|ground_truth=stone digests the container did not write|json=0
+ALIVEFTR|minute=2|stone_hash=ec0456843ccff9dd2f2a9a2d5613674e2d42ba6f0c7d5e4dee59a0143ee93459|follows=the IS and the MINS|status=ALIVE|json=0
